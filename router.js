@@ -18,7 +18,7 @@ const routes = {
     '/design/design-1' : '/pages/design-projects/design-project-1.html',
     '/design/design-2' : '/pages/design-projects/design-project-1.html',
     '/design/design-3' : '/pages/design-projects/design-project-1.html',
-    '/contact/success' : '/pages/success.html'
+    '/success' : '/pages/success.html'
 }
 
 const handleLocation = async () => {
